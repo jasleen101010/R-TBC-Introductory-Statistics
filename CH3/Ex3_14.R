@@ -1,0 +1,10 @@
+# Page No. 97
+library(modeest)
+Value<-c(1,2,3,4,5,6)
+Freq<-c(6,4,5,8,3,4)
+ValxFreq<-c(Value*Freq)
+Dice<-data.frame(Value,Freq,ValxFreq)
+View(Dice)
+cat("\nMode=",mfv(Freq))
+cat("\nMedian=",median(ValxFreq),"value.Median=",(Value[3]+Value[4])/2)
+cat("\nMean=",(sum(ValxFreq)/30))
