@@ -1,7 +1,7 @@
 <h1>R TBC-Introductory Statistics</h1>
 This project contains the codeable examples of Introductory Statistics written by Sheldon M Ross.<br>
 
-![Book Cover](book cover.png)
+![Book Cover] (book cover.png)
 
 Introductory statistics is written by Sheldon M Ross. The textbook was published by Elservier inc. , UK in 2010.<br>
 I started working on the textbook companion of this book in 2nd year of college, under the FOSSEE Program by Indian Institute of Technology, Bombay.<br>
