@@ -10,7 +10,7 @@ I started working on the textbook companion of this book in 2nd year of college,
 
 The 800 pages long book was transformed into 183 codeable examples!<br>
 
-You can find the PDF of my compiled textbook [here!](https://github.com/jasleen101010/R-TBC-Introductory-Statistics/blob/main/Introductory%20Statistics_Sheldon%20M.%20Ross.pdf)
+You can find the PDF of my compiled textbook [here!](https://r.fossee.in/textbook_run/252/2/1)
 
 What makes me even happier is that the book is completely open-source and available for whoever wishes to learn R Programming.<br>
 I have come to realize that R Programming is still a niche in the world of Data Science and I am really honored to have done my part to bring it to the limelight!<br>
