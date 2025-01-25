@@ -7,6 +7,9 @@ This project contains the codeable examples of Introductory Statistics written b
 Introductory Statistics is written by Sheldon M Ross. The textbook was published by Elsevier INC, UK in 2010.<br>
 
 I started working on the textbook companion of this book in 2nd year of college, under the FOSSEE Program by Indian Institute of Technology, Bombay.<br>
+<p align="center">
+    <img src="https://github.com/jasleen101010/R-TBC-Introductory-Statistics/blob/main/JKS%20with%20book.jpg" alt="Description" width="300">
+</p>
 
 The 800 pages long book was transformed into 183 codeable examples!<br>
 
